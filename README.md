@@ -1,13 +1,15 @@
-## personal website
+## Personal Website
 ==========
-###my website: www.maedeh-kafiyan.ir
+###My Website: www.maedeh-kafiyan.ir
 ### Discription :
 maedeh-kafiyan.ir
  is the personal design blog
+<br />
  and digital playground of 
+<br />
  maedeh kafian, that’s me by the way :)!
 
- ### Contributing :
+### Contributing :
 * Check my website and report any bugs or ideas in issues
 ```
    https://github.com/m-kafiyan/my-personal-website
